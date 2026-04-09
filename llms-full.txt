@@ -1,0 +1,1420 @@
+# canifileagain.org -- Full Content
+
+This file contains the full text content of all pages on canifileagain.org.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## When Can I File Bankruptcy Again? -- Interactive Calculator
+Source: https://canifileagain.org/calculator.html
+
+Skip to main content
+
+canifileagain.org
+☰
+
+Home
+Waiting Periods
+Dismissed vs Discharged
+Calculator
+State Rules
+Strategic Refiling
+
+Filing Eligibility Calculator
+
+Enter your prior case details to calculate your earliest eligible filing and discharge dates.
+
+Eligibility Calculator
+
+Full interactive calculator: Use the comprehensive free screener at 1328f.com/check.html -- it checks all Section 1328(f), 727(a)(8), 727(a)(9), and 109(g) bars automatically.
+
+To check your eligibility manually, you need:
+
+Filing date of your prior case
+
+Chapter filed (7, 13, 11, or 12)
+
+How it ended (discharged, dismissed, or converted)
+
+Date of discharge (if applicable)
+
+Chapter you want to file now
+
+Quick Reference
+
+PriorNewWaitEarliest New Filing
+
+Ch.7 (discharged)Ch.78 yearsPrior filing date + 8 years
+
+Ch.7 (discharged)Ch.134 yearsPrior filing date + 4 years
+
+Ch.13 (discharged)Ch.76 years*Prior filing date + 6 years*
+
+Ch.13 (discharged)Ch.132 yearsPrior filing date + 2 years
+
+Any (dismissed)Any0-180 daysDepends on 109(g)
+
+* Exception if Ch.13 paid 100% or 70%+ in good faith with best effort
+
+Step-by-Step Manual Check
+
+Check 109(g): Was your prior case dismissed for willful failure to obey court orders, or voluntarily after a stay relief motion? If yes, you cannot file for 180 days from dismissal. 109g.org calculator
+
+Check discharge bars: Was a discharge entered? If yes, look up the applicable bar from the chart above. 1328f.com screener
+
+Check stay limits: Was a case dismissed within the past year? If yes, the stay will be limited (362(c)(3)) or absent (362(c)(4)). automaticstay.org
+
+If no bars apply: You can file and receive a discharge immediately (subject to completing all requirements of the new case).
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+1328f.com/check.html -- Full interactive screener
+
+109g.org/calculator.html -- 180-day calculator
+
+727a8.com -- 8-year bar guide
+
+Related Guides
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Bankruptcy Hardship Discharge
+
+Filing Bankruptcy Twice
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+Section 109(g) Filing Restrictions
+
+180-day filing restriction under Section 109(g)
+
+109g.org →
+
+Discharge Eligibility Screener
+
+Free screener tool to check if you can file again
+
+1328f.com →
+
+Chapter 7 Discharge Time Bar Guide
+
+Complete guide to the 8-year Chapter 7 discharge bar
+
+727a8.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Dismissed vs Discharged Bankruptcy -- What It Means for Refiling
+Source: https://canifileagain.org/dismissed-vs-discharged.html
+
+Skip to main content
+
+canifileagain.org
+☰
+
+Home
+Waiting Periods
+Dismissed vs Discharged
+Calculator
+State Rules
+Strategic Refiling
+
+Dismissed vs. Discharged -- Impact on Refiling
+
+Understanding the difference between dismissed and discharged cases is essential for refiling strategy.
+
+Discharged -- Successful Outcome
+
+A discharge eliminates your personal liability for covered debts. It is the goal of filing bankruptcy.
+
+Consequences for refiling:
+
+Discharge bars apply -- You must wait the required period before receiving another discharge
+
+No stay limits -- The automatic stay is not limited by a prior discharge (only by prior dismissals)
+
+Can file anytime -- You can file a new case at any time for the automatic stay, but cannot receive a discharge until the bar period expires
+
+Dismissed -- Case Terminated, Debts Remain
+
+A dismissal ends the case without eliminating debts. All obligations remain fully enforceable.
+
+Consequences for refiling:
+
+No discharge bar -- Since no discharge was received, discharge bars do not apply
+
+109(g) may apply -- If dismissed for willful failure to obey court orders or after a stay relief motion
+
+Stay limits apply -- 362(c)(3): stay limited to 30 days if one dismissal within past year. 362(c)(4): no stay at all if two+ dismissals within past year
+
+The stay limits are the biggest risk. A dismissed case does not create a discharge bar, but it can severely limit or eliminate the automatic stay in your next filing.
+
+Common Reasons for Dismissal
+
+Failure to file required documents within 14 days
+
+Failure to complete credit counseling before filing
+
+Failure to make Chapter 13 plan payments
+
+Failure to appear at the 341 meeting
+
+Failure to pass the means test (Chapter 7)
+
+Voluntary dismissal by the debtor
+
+Strategic Considerations
+
+If you are deciding whether to request dismissal or let your case continue:
+
+Dismissal preserves discharge eligibility in a future case (no bar is triggered)
+
+But dismissal creates stay risks for future filings within one year
+
+Conversion may be better -- converting from Chapter 13 to Chapter 7 (or vice versa) keeps the case open and avoids the stay limits
+
+See also: Strategic refiling | All waiting periods
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+dischargebar.org -- Discharge bar details
+
+109g.org -- 180-day filing bar
+
+Related Guides
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Bankruptcy Hardship Discharge
+
+Filing Bankruptcy Twice
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+Section 109(g) Filing Restrictions
+
+180-day filing restriction under Section 109(g)
+
+109g.org →
+
+Discharge Eligibility Screener
+
+Free screener tool to check if you can file again
+
+1328f.com →
+
+Chapter 7 Discharge Time Bar Guide
+
+Complete guide to the 8-year Chapter 7 discharge bar
+
+727a8.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Can I File Bankruptcy Again? -- Waiting Periods [2026]
+Source: https://canifileagain.org/
+
+🌐 Esta pagina esta disponible en Espanol
+
+Skip to main content
+
+canifileagain.org
+☰
+
+Home
+Waiting Periods
+Dismissed vs Discharged
+Calculator
+State Rules
+Strategic
+
+Part of the Open Bankruptcy Project -- 75+ free domains, 2,000+ pages, $0 cost
+
+Can I File Bankruptcy Again?
+
+Plain English guide to every waiting period, filing bar, and stay limit that affects repeat bankruptcy filers.
+
+Quick Answer
+
+Yes, you can file bankruptcy again, but waiting periods apply. Chapter 7 after Chapter 7: 8 years. Chapter 13 after Chapter 7: 4 years. Chapter 13 after Chapter 13: 2 years. Chapter 7 after Chapter 13: 6 years. All periods run from filing date to filing date. See the complete timing chart.
+
+Can You File Bankruptcy Again?
+
+Yes -- but when and how depends on your prior case. The Bankruptcy Code imposes different waiting periods depending on which chapter you filed, which chapter you want to file now, and how your prior case ended. If you need to start the process, see our step-by-step filing guide. Repeat filers should also consider tax debt in repeat filings, as unpaid taxes may survive discharge.
+
+Discharge Bars -- Waiting Periods
+
+Prior CaseNew CaseWaitStatute
+
+Chapter 7Chapter 78 years727(a)(8)
+
+Chapter 7Chapter 134 years1328(f)(1)
+
+Chapter 13Chapter 76 years*727(a)(9)
+
+Chapter 13Chapter 132 years1328(f)(2)
+
+* Exception if prior Ch.13 paid 100% or 70%+ in good faith with best effort.
+
+Key: Measured from filing date to filing date. Prior discharge must have been received.
+
+Filing Bars
+
+Section 109(g) -- 180-Day Bar
+
+Applies if prior case dismissed for willful failure to obey court orders, or voluntarily dismissed after a stay relief motion. The dismissal rate by district varies widely and may affect how courts view your refiling.
+
+Full guide at 109g.org →
+
+Automatic Stay Limits
+
+362(c)(3) -- One Prior Dismissal
+
+The automatic stay protection in bankruptcy terminates after 30 days unless court extends it.
+
+362(c)(4) -- Two+ Prior Dismissals
+
+No stay takes effect without court order.
+
+Check Your Eligibility
+
+The free screener calculates your earliest eligible filing date.
+
+Free Discharge Screener
+180-Day Calculator
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+Section 727(a)(8) eight-year discharge bar -- 8-year bar between Chapter 7 discharges
+
+Section 109(g) filing bars -- 180-day filing bar
+
+1328f.com -- Free discharge screener
+
+Related Guides
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Bankruptcy Hardship Discharge
+
+Filing Bankruptcy Twice
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+Section 109(g) Filing Restrictions
+
+180-day filing restriction under Section 109(g)
+
+109g.org →
+
+Discharge Eligibility Screener
+
+Free screener tool to check if you can file again
+
+1328f.com →
+
+Chapter 7 Discharge Time Bar Guide
+
+Complete guide to the 8-year Chapter 7 discharge bar
+
+727a8.com →
+
+Your Next Questions
+
+Real users ask these next -- we built the answers.
+
+Can I Keep My Car?
+
+Vehicle exemptions and reaffirmation options
+
+keepmycarinbankruptcy.com →
+
+Can I Keep My House?
+
+Homestead exemptions and mortgage options
+
+keepmyhouseinbankruptcy.com →
+
+Chapter 7 vs Chapter 13
+
+Which chapter is right for your situation?
+
+chapter7vs13.org →
+
+Your Complete Path
+
+Step-by-step guide for repeat filers
+
+filebankruptcyagain.com →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+📖 Bankruptcy Glossary -- 61 terms explained
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+relieffromstay.org
+dischargeinjunction.com
+prosedebtors.org
+canifileagain.org
+garnishedwages.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Filing Bankruptcy Again -- State Rules and Considerations
+Source: https://canifileagain.org/state-rules.html
+
+Skip to main content
+
+canifileagain.org
+☰
+
+Home
+Waiting Periods
+Dismissed vs Discharged
+Calculator
+State Rules
+Strategic Refiling
+
+State Rules for Refiling Bankruptcy
+
+Federal discharge bars are the same everywhere, but state exemption rules may affect your refiling strategy.
+
+Federal Rules Are Uniform
+
+The discharge bars -- 727(a)(8), 727(a)(9), 1328(f)(1), 1328(f)(2) -- are federal law and apply the same in every state. The 180-day filing bar under 109(g) is also federal. No state can change these waiting periods.
+
+However, state law affects other aspects of your bankruptcy that may influence when and how to file again.
+
+State Exemption Impact
+
+Exemptions determine what property you can keep in bankruptcy. They vary dramatically by state:
+
+Homestead: Texas and Florida offer unlimited homestead exemptions. Many states cap the exemption at $25,000 to $250,000.
+
+Vehicles: Ranges from $1,000 (some states) to $15,000+ (others)
+
+Wildcard: Some states offer a "wildcard" exemption that can be applied to any property
+
+Federal vs. state: Some states allow you to choose between federal exemptions and state exemptions. Others require you to use state exemptions.
+
+Strategic timing: If you recently moved from a state with generous exemptions to one with more limited exemptions, it may be worth waiting until the 2-year domicile period expires to use your new state's exemptions (or vice versa).
+
+The 2-Year Domicile Rule
+
+Section 522(b)(3)(A) requires you to use the exemption laws of the state where you have been domiciled for the 730 days (2 years) before filing.
+
+If you have not been in your current state for 2 years, you must use the exemptions of the state where you were domiciled for the 180-day period before that 730-day period. This can create complicated situations for recent movers.
+
+The Homestead Cap for Recent Movers
+
+Section 522(p) caps the homestead exemption at $189,050 (adjusted periodically) if the debtor acquired the homestead within the 1,215 days (approximately 3.3 years) before filing and cannot trace the equity to a prior home in the same state.
+
+This prevents "exemption planning" -- buying an expensive home in a state with unlimited homestead exemption shortly before filing bankruptcy.
+
+Related: Strategic refiling considerations | All waiting periods
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+dischargebar.org -- Discharge bar details
+
+1328f.com -- Free screener
+
+Related Guides
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Bankruptcy Hardship Discharge
+
+Filing Bankruptcy Twice
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+Section 109(g) Filing Restrictions
+
+180-day filing restriction under Section 109(g)
+
+109g.org →
+
+Discharge Eligibility Screener
+
+Free screener tool to check if you can file again
+
+1328f.com →
+
+Chapter 7 Discharge Time Bar Guide
+
+Complete guide to the 8-year Chapter 7 discharge bar
+
+727a8.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Automatic Stay Limits for Repeat Filers
+Source: https://canifileagain.org/stay-limits.html
+
+canifileagain.org
+
+1328f.com1328f.org
+
+Can I File Bankruptcy Again?
+
+Free tool to check if you can file bankruptcy again. Discharge bars, waiting periods, and prior filing restrictions explained.
+
+One Prior Dismissal -- 30-Day Stay
+
+Section 362(c)(3): If you had a case pending and dismissed within the year before your new filing, the automatic stay expires after 30 days unless you file a motion to extend it. You must show the new filing is in good faith.
+
+Two or More Prior Dismissals -- No Stay
+
+Section 362(c)(4): If you had two or more cases pending and dismissed within the year before filing, you get NO automatic stay at all. You must file a motion and prove good faith to get any stay protection. Until the court grants your motion, creditors can continue collection.
+
+How to Extend the Stay
+
+File a motion to extend or impose the stay before it expires (within 30 days for 362(c)(3), or as soon as possible for 362(c)(4)). Demonstrate that the new case is filed in good faith -- changed circumstances, ability to complete the plan, specific reason prior case was dismissed. Full serial filing guide.
+
+Check your eligibility
+
+Free Discharge Screener
+
+Related Guides
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Bankruptcy Hardship Discharge
+
+Filing Bankruptcy Twice
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+Section 109(g) Filing Restrictions
+
+180-day filing restriction under Section 109(g)
+
+109g.org →
+
+Discharge Eligibility Screener
+
+Free screener tool to check if you can file again
+
+1328f.com →
+
+Chapter 7 Discharge Time Bar Guide
+
+Complete guide to the 8-year Chapter 7 discharge bar
+
+727a8.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Relief from Automatic Stay -- relieffromstay.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com1328f.org♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Strategic Refiling of Bankruptcy -- When It Makes Sense
+Source: https://canifileagain.org/strategic-refiling.html
+
+Skip to main content
+
+canifileagain.org
+☰
+
+Home
+Waiting Periods
+Dismissed vs Discharged
+Calculator
+State Rules
+Strategic Refiling
+
+Strategic Refiling -- When It Makes Sense
+
+Refiling bankruptcy is not always a sign of failure. Changed circumstances, a different chapter, or strategic timing can make a new filing the right choice.
+
+Changed Circumstances
+
+Life does not stop after a bankruptcy discharge. Legitimate reasons to refile include:
+
+New debts -- Medical bills, job loss, business failure after prior discharge
+
+Income changes -- Reduced income may now qualify you for Chapter 7 when you previously had to file Chapter 13
+
+Divorce -- Separation of finances may create new debt obligations
+
+Foreclosure or repossession threat -- Need the automatic stay to protect property
+
+Lawsuit or judgment -- New creditor actions require protection
+
+Chapter Switching Strategy
+
+Chapter 13 After Chapter 7
+
+Common when the debtor needs to address secured debts (mortgages, car loans) that survived the Chapter 7 discharge. Chapter 13 can cure mortgage arrears, restructure car loans through cramdown, and address tax debts through the plan.
+
+Chapter 7 After Chapter 13 Dismissal
+
+If your Chapter 13 plan failed, Chapter 7 may provide faster relief -- if you qualify under the means test. No discharge bar applies because the prior case was dismissed, not discharged.
+
+Key advantage: If your prior case was dismissed (not discharged), there is no discharge bar for the new case. You can receive a discharge immediately.
+
+Conversion vs. Dismissal and Refiling
+
+If you are currently in a bankruptcy case, converting to a different chapter is often better than dismissing and refiling:
+
+OptionProsCons
+
+Convert (e.g., Ch.13 to Ch.7)No stay limits, preserves filing date, no gap in protectionMay not qualify for conversion, means test applies
+
+Dismiss and refileClean slate, choose any chapterStay may be limited (362(c)(3)/(c)(4)), gap in protection
+
+Timing Your Refiling
+
+Strategic timing considerations:
+
+Wait for the discharge bar to expire if you need a discharge (not just the automatic stay)
+
+Wait 1+ years after dismissal to avoid stay limits under 362(c)(3)/(c)(4)
+
+Wait for domicile requirements if you recently moved and want to use your new state's exemptions
+
+File before foreclosure sale if you need the stay to save your home
+
+File before garnishment starts if a judgment has been entered but garnishment has not begun
+
+Use the screener: 1328f.com discharge screener | Filing calculator
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+dischargebar.org -- Discharge bars
+
+serialfiler.org -- Serial filer guide
+
+727a8.com -- 8-year bar
+
+Related Guides
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Bankruptcy Hardship Discharge
+
+Filing Bankruptcy Twice
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+Section 109(g) Filing Restrictions
+
+180-day filing restriction under Section 109(g)
+
+109g.org →
+
+Discharge Eligibility Screener
+
+Free screener tool to check if you can file again
+
+1328f.com →
+
+Chapter 7 Discharge Time Bar Guide
+
+Complete guide to the 8-year Chapter 7 discharge bar
+
+727a8.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Bankruptcy Waiting Periods Chart -- All Discharge Bars
+Source: https://canifileagain.org/waiting-periods.html
+
+Skip to main content
+
+canifileagain.org
+☰
+
+Home
+Waiting Periods
+Dismissed vs Discharged
+Calculator
+State Rules
+Strategic Refiling
+
+Bankruptcy Waiting Periods -- Complete Chart
+
+Every waiting period that affects repeat filers. Filing bars, discharge bars, and automatic stay limits.
+
+Discharge Bars -- Master Chart
+
+Prior CaseNew CaseWaiting PeriodStatute
+
+Chapter 7Chapter 78 years727(a)(8)
+
+Chapter 7Chapter 134 years1328(f)(1)
+
+Chapter 13Chapter 76 years*727(a)(9)
+
+Chapter 13Chapter 132 years1328(f)(2)
+
+Chapter 12Chapter 76 years*727(a)(9)
+
+Chapter 11Chapter 7None (disputed)727(a)(8) -- "under this chapter"
+
+* The 6-year bar does not apply if the prior Ch.13 paid unsecured creditors 100%, or paid at least 70% and the plan was proposed in good faith with best effort.
+
+Key rule: All bars are measured from filing date to filing date. The prior case must have resulted in a discharge. A dismissed case does not trigger discharge bars (but may trigger 109(g)).
+
+Filing Bars
+
+Section 109(g) -- 180-Day Bar
+
+You cannot file at all for 180 days if:
+
+Your prior case was dismissed for willful failure to abide by orders of the court or to appear before the court
+
+You voluntarily dismissed your prior case after a creditor filed a motion for relief from stay
+
+The 109(g) bar prevents filing, not just discharge. You cannot even get the automatic stay during the 180-day period.
+
+Full guide: 109g.org
+
+Automatic Stay Limits for Repeat Filers
+
+Section 362(c)(3) -- One Prior Dismissal in Past Year
+
+If you had one case pending and dismissed within the past year, the automatic stay in your new case automatically terminates after 30 days unless the court extends it.
+
+To extend: file a motion before the 30 days expire. You must show the new filing is in good faith.
+
+Section 362(c)(4) -- Two+ Prior Dismissals in Past Year
+
+If you had two or more cases pending and dismissed within the past year, no automatic stay takes effect at all unless the court orders it.
+
+To get the stay: file an emergency motion. You must show changed circumstances and good faith.
+
+This is the harshest penalty for repeat filings. Without the automatic stay, creditors can continue foreclosure, repossession, garnishment, and all other collection actions even though a bankruptcy is pending.
+
+Check Your Dates
+
+Use these free tools to calculate your earliest eligible filing and discharge dates:
+
+1328f.com discharge screener -- Checks all Section 1328(f) and 727(a)(8)/(9) bars
+
+109g.org calculator -- 180-day filing bar calculator
+
+727a8.com -- 8-year Chapter 7 discharge bar
+
+See also: Dismissed vs. discharged -- what it means for refiling
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+727a8.com -- 8-year bar
+
+109g.org -- 180-day bar
+
+serialfiler.org -- Serial filer guide
+
+Related Guides
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Bankruptcy Hardship Discharge
+
+Filing Bankruptcy Twice
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+Section 109(g) Filing Restrictions
+
+180-day filing restriction under Section 109(g)
+
+109g.org →
+
+Discharge Eligibility Screener
+
+Free screener tool to check if you can file again
+
+1328f.com →
+
+Chapter 7 Discharge Time Bar Guide
+
+Complete guide to the 8-year Chapter 7 discharge bar
+
+727a8.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Relief from Automatic Stay -- relieffromstay.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
